@@ -1,0 +1,10 @@
+, position
+1, Mobile Developer
+2, Backend Developer
+3, DevOps Engineer
+4, Frontend Developer
+5, Data Engineer
+6, QA Engineer
+7, Backend Developer
+8, Mobile Developer
+9, Data Scientist 
